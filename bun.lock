@@ -6,9 +6,9 @@
       "name": "@sudobility/shaperouter_lib",
       "devDependencies": {
         "@eslint/js": "^9.39.2",
-        "@sudobility/shaperouter_client": "^0.0.12",
-        "@sudobility/shaperouter_types": "^0.0.8",
-        "@sudobility/types": "^1.9.68",
+        "@sudobility/shaperouter_client": "^0.0.18",
+        "@sudobility/shaperouter_types": "^0.0.11",
+        "@sudobility/types": "^1.9.74",
         "@tanstack/react-query": "^5.90.5",
         "@types/node": "^24.9.1",
         "@types/react": "^19.2.2",
@@ -25,9 +25,9 @@
         "zustand": "^5.0.8",
       },
       "peerDependencies": {
-        "@sudobility/shaperouter_client": "^0.0.12",
-        "@sudobility/shaperouter_types": "^0.0.8",
-        "@sudobility/types": "^1.9.68",
+        "@sudobility/shaperouter_client": "^0.0.18",
+        "@sudobility/shaperouter_types": "^0.0.11",
+        "@sudobility/types": "^1.9.74",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
         "zustand": ">=5.0.0",
@@ -203,13 +203,13 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.12", "", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.8", "@sudobility/types": "^1.9.68", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-kf6EKSfo/ITl++My527pvIkwX9j9wR9Htxun9rTpV1Ll4uBX2F7FcQQj1jC0nZYV7j296hnXhci+YiU50HJLyg=="],
+    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.18", "https://npm.pkg.github.com/download/@sudobility/shaperouter_client/0.0.18/76789074de251d5d0ecb1851e035a44530a18a57", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.11", "@sudobility/types": "^1.9.74", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-/bAHaR6s8ujvJCPDrLF8gBtWsJHewRQEJOXXU0HVreR0rkiO5YZ8PWhGoa4O6AS2wcsyhzMMIdzryz6ctfDfRA=="],
 
-    "@sudobility/shaperouter_types": ["@sudobility/shaperouter_types@0.0.8", "", { "dependencies": { "@sudobility/shapeshyft_engine": "^1.0.11" }, "peerDependencies": { "@sudobility/types": "^1.9.68" } }, "sha512-zmZXsENMiW8x+Wka0shzZJ888HBNTnIo5PwZr3uXHxcZJtv2W46FG9ogr8xLCb4QfOg0B4LYTucnqpZ9FDp7qg=="],
+    "@sudobility/shaperouter_types": ["@sudobility/shaperouter_types@0.0.11", "https://npm.pkg.github.com/download/@sudobility/shaperouter_types/0.0.11/34dc8c0c4db960856f5540e6a5192947ebd4977d", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.12", "@sudobility/types": "^1.9.74" } }, "sha512-A+jBFiLg2aojfDflJue5bIIiH8/NgRUhyf5DtAE9vsRi5CYwcJh4DyChPpLIuTcft57HzE6g9ZmcFwqQA91nIw=="],
 
-    "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.11", "", { "dependencies": { "@sudobility/types": "^1.9.68" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" }, "optionalPeers": ["@anthropic-ai/sdk", "@google/generative-ai", "groq-sdk", "openai", "sharp"] }, "sha512-APBo9RfIxUPSI1c/E4rVWAzwMrKjt2tXiK1faOhfYf519cU3p7neKDY+ToM06+ezo0vMfzRoWlrNT660hxepbg=="],
+    "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.11", "https://npm.pkg.github.com/@sudobility/shapeshyft_engine/-/shapeshyft_engine-1.0.11.tgz", { "dependencies": { "@sudobility/types": "^1.9.68" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" }, "optionalPeers": ["@anthropic-ai/sdk", "@google/generative-ai", "groq-sdk", "openai", "sharp"] }, "sha512-APBo9RfIxUPSI1c/E4rVWAzwMrKjt2tXiK1faOhfYf519cU3p7neKDY+ToM06+ezo0vMfzRoWlrNT660hxepbg=="],
 
-    "@sudobility/types": ["@sudobility/types@1.9.68", "", {}, "sha512-4LL5+UfcqQcc0PKKR/z/PqS6j9DQPVkkjL+3oOW+Bwx0TAu1SVKAlPhlt/9ruNMW+abcHuZoFvbOVD5gdYBSGw=="],
+    "@sudobility/types": ["@sudobility/types@1.9.74", "https://npm.pkg.github.com/download/@sudobility/types/1.9.74/f9ad864ba5d8d1097e7e48378ebee8aa7e129e88", {}, "sha512-jgt0F1r71qjFNiRNn/1YlL4JU65sjnzYd8Sfi+Y9z62Lu9VhIXeqWAH12u7/hmGPZqG3nxzn0V+s3sFkB1qWuQ=="],
 
     "@tanstack/query-core": ["@tanstack/query-core@5.90.12", "", {}, "sha512-T1/8t5DhV/SisWjDnaiU2drl6ySvsHj1bHBCWNXd+/T+Hh1cf6JodyEYMd5sgwm+b/mETT4EV3H+zCVczCU5hg=="],
 
