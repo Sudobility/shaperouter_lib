@@ -6,8 +6,8 @@
       "name": "@sudobility/shaperouter_lib",
       "devDependencies": {
         "@eslint/js": "~10.0.1",
-        "@sudobility/shaperouter_client": "^0.0.28",
-        "@sudobility/shaperouter_types": "^0.0.17",
+        "@sudobility/shaperouter_client": "^0.0.29",
+        "@sudobility/shaperouter_types": "^0.0.18",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": "~5.104.5",
         "@types/node": "~26.6.5",
@@ -25,8 +25,8 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/shaperouter_client": "^0.0.28",
-        "@sudobility/shaperouter_types": "^0.0.17",
+        "@sudobility/shaperouter_client": "^0.0.29",
+        "@sudobility/shaperouter_types": "^0.0.18",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
@@ -211,9 +211,9 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.28", "https://npm.pkg.github.com/download/@sudobility/shaperouter_client/0.0.28/13b54e6be52f884c1fe631f348be85f466d4d5d0", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.17", "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-4Cg6Wb7jAgMM75ze0a4Gn6WzZHoFXqkg05eTFLHQZsKY88gjOCEB3LZK45mbfVx4U/ES+/tywZtzbo0IRwGiuQ=="],
+    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.29", "https://npm.pkg.github.com/download/@sudobility/shaperouter_client/0.0.29/15442bb7b9122c636718b7a7b068f9e4fe4fe7f9", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.18", "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-DBhBqoFO7Q7oVD+Cl2qjemX9SVLyn8ubOXnPt6DU66t9VH2OQbedYouiZGCcj04aKTZA3DcWD5ExYVnWkyft3A=="],
 
-    "@sudobility/shaperouter_types": ["@sudobility/shaperouter_types@0.0.17", "https://npm.pkg.github.com/download/@sudobility/shaperouter_types/0.0.17/8e66ce76d6dc7a0e412f8b5f6fb9acdb38680673", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.13", "@sudobility/types": "^1.9.78" } }, "sha512-1YIN1T4YF/ug73MCPpY7jByaMU+fUFGcjusrXNzzMRsNM130Yb5UkmU9Z/345EzUJZIxBZlqVkzwKMORemG3Dw=="],
+    "@sudobility/shaperouter_types": ["@sudobility/shaperouter_types@0.0.18", "https://npm.pkg.github.com/download/@sudobility/shaperouter_types/0.0.18/c75ce1b1de0c9773557ad3f3fd44293f16720e05", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.14", "@sudobility/types": "^1.9.78" } }, "sha512-YaGvOb/32e/ZMgMiVrxvNd2i5uHGQCTz91bCUhQAjdoUSbn09BWDGj21HeluRuIppoLYsHbF9Sonsqd6q2oxbg=="],
 
     "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.12", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_engine/1.0.12/eb2fc50373abd3808ed16f948001f6e091ddea52", { "dependencies": { "@sudobility/types": "^1.9.72" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" } }, "sha512-gNVH89kzF7eVTwW+nXNKh1+eCEyjv3yluiiYUAw+xJfYsqbcKliMOFCT2Bs8RGczFC1juUCOscwbFlhCSlhsHA=="],
 
