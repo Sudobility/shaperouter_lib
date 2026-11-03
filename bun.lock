@@ -6,7 +6,7 @@
       "name": "@sudobility/shaperouter_lib",
       "devDependencies": {
         "@eslint/js": "~10.0.1",
-        "@sudobility/shaperouter_client": "^0.0.29",
+        "@sudobility/shaperouter_client": "^0.0.30",
         "@sudobility/shaperouter_types": "^0.0.18",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": "~5.104.5",
@@ -25,7 +25,7 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/shaperouter_client": "^0.0.29",
+        "@sudobility/shaperouter_client": "^0.0.30",
         "@sudobility/shaperouter_types": "^0.0.18",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": ">=5.0.0",
@@ -211,7 +211,7 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.29", "https://npm.pkg.github.com/download/@sudobility/shaperouter_client/0.0.29/15442bb7b9122c636718b7a7b068f9e4fe4fe7f9", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.18", "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-DBhBqoFO7Q7oVD+Cl2qjemX9SVLyn8ubOXnPt6DU66t9VH2OQbedYouiZGCcj04aKTZA3DcWD5ExYVnWkyft3A=="],
+    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.30", "https://npm.pkg.github.com/download/@sudobility/shaperouter_client/0.0.30/7aa99d09c441626bb767b9fc55218669f6baffb6", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.18", "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-VrJUTaaj7FQkz+SzX8IQ72U3s6wqYp1Z0GRTELkhu05+HQINBrb21XZVPQkQIPx/RNacVL8nautZmzCnHKhYQg=="],
 
     "@sudobility/shaperouter_types": ["@sudobility/shaperouter_types@0.0.18", "https://npm.pkg.github.com/download/@sudobility/shaperouter_types/0.0.18/c75ce1b1de0c9773557ad3f3fd44293f16720e05", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.14", "@sudobility/types": "^1.9.78" } }, "sha512-YaGvOb/32e/ZMgMiVrxvNd2i5uHGQCTz91bCUhQAjdoUSbn09BWDGj21HeluRuIppoLYsHbF9Sonsqd6q2oxbg=="],
 
