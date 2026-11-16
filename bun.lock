@@ -6,9 +6,9 @@
       "name": "@sudobility/shaperouter_lib",
       "devDependencies": {
         "@eslint/js": "~10.0.1",
-        "@sudobility/shaperouter_client": "^0.0.34",
-        "@sudobility/shaperouter_types": "^0.0.26",
-        "@sudobility/types": "^1.11.1",
+        "@sudobility/shaperouter_client": "^0.0.35",
+        "@sudobility/shaperouter_types": "^0.0.28",
+        "@sudobility/types": "^1.11.2",
         "@tanstack/react-query": "~5.104.5",
         "@types/node": "~26.6.5",
         "@types/react": "~19.3.0",
@@ -25,9 +25,9 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/shaperouter_client": "^0.0.34",
-        "@sudobility/shaperouter_types": "^0.0.26",
-        "@sudobility/types": "^1.11.1",
+        "@sudobility/shaperouter_client": "^0.0.35",
+        "@sudobility/shaperouter_types": "^0.0.28",
+        "@sudobility/types": "^1.11.2",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
         "zustand": ">=5.0.0",
@@ -211,13 +211,13 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.34", "https://npm.pkg.github.com/download/@sudobility/shaperouter_client/0.0.34/731bb5d54a64b3754913e806f41289c6fe7bee6e", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.26", "@sudobility/types": "^1.11.1", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-vOeJfCx/fj1g2qRglM7C9MOB2AEC24rzMGCsd6VPzFBnZqiZnmbeMA6cl0zj/gbeuqFwSLns4hzyXrVJuQgHYA=="],
+    "@sudobility/shaperouter_client": ["@sudobility/shaperouter_client@0.0.35", "https://npm.pkg.github.com/download/@sudobility/shaperouter_client/0.0.35/18c8c9e924a6af7df1789b74092bf5bc0842d3f9", { "peerDependencies": { "@sudobility/shaperouter_types": "^0.0.28", "@sudobility/types": "^1.11.2", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-6xOLGEJzkDSDwBxJi6U6Y93VdKlGaIMLIHS2nIWnApeZEE0/hvtnmEgIlBKL4QGH+0pnz4uaKKRJ04aFGQm8zA=="],
 
-    "@sudobility/shaperouter_types": ["@sudobility/shaperouter_types@0.0.26", "https://npm.pkg.github.com/download/@sudobility/shaperouter_types/0.0.26/ac0f34abe34c7f3ce969a5c7c0da687474b22ba9", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.18", "@sudobility/types": "^1.11.1" } }, "sha512-L+WguXLheWZyxX62dIIB3WcvrR3EgpsS1S0qkVKiT7EYHV7c3p5i9xgvhz9oXX31ZxuJN9v2qMrZ8jxfobPnVg=="],
+    "@sudobility/shaperouter_types": ["@sudobility/shaperouter_types@0.0.28", "https://npm.pkg.github.com/download/@sudobility/shaperouter_types/0.0.28/7e839b97b7fa8a4ec136c84026fe32493aacafab", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.19", "@sudobility/types": "^1.11.2" } }, "sha512-4Lot4VA78jJ1+4whxuD3x+i+LJQx3XdMmyUhem9btlluLoNrFG5jG2yCkFadzZ8V3FMFtPPBaitfXjskUhA/bQ=="],
 
     "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.12", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_engine/1.0.12/eb2fc50373abd3808ed16f948001f6e091ddea52", { "dependencies": { "@sudobility/types": "^1.9.72" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" } }, "sha512-gNVH89kzF7eVTwW+nXNKh1+eCEyjv3yluiiYUAw+xJfYsqbcKliMOFCT2Bs8RGczFC1juUCOscwbFlhCSlhsHA=="],
 
-    "@sudobility/types": ["@sudobility/types@1.11.1", "https://npm.pkg.github.com/download/@sudobility/types/1.11.1/dc6bf578b6f618fab74a7a60ed064d80b18782c2", {}, "sha512-NPECPlRPj1IavT7pu3KtIFB6rDfs30AgD89pw/qrNe1+Tm0FFLkIfqxE/y8+uajm85um+FcoYHn/hY70Px9uow=="],
+    "@sudobility/types": ["@sudobility/types@1.11.2", "https://npm.pkg.github.com/download/@sudobility/types/1.11.2/d6d0b1809eaca31ef737646032cc431111b58a49", {}, "sha512-gg+bPtcOGNETDt9oNdjcn7R22EfFWmRxMOhj0ADwulBJ9tJ4NaMaXkrTtkWF+figSDZqmD9a9kodgOHseq8gsQ=="],
 
     "@tanstack/query-core": ["@tanstack/query-core@5.104.5", "", {}, "sha512-Q94gI8Opd+CbdVNOdj8ZCyV8WqLYitrDq1t96Xc8WZT6lY0r5iRnJLXYDxMex7EEf2v+mXvn4FcjaBKSxXZQ9A=="],
 
